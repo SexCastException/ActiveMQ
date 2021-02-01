@@ -8,7 +8,7 @@ import javax.jms.*;
 import java.util.UUID;
 
 /**
- * ActiveMQ高级特性之延迟和定时投递
+ * ActiveMQ高级特性之延迟和定时投递生产者
  *
  * @author pyh
  * @date 2021/1/30 20:25
